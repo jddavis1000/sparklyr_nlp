@@ -1,0 +1,20 @@
+[I 18:49:02.026 NotebookApp] Writing notebook server cookie secret to /home/ubuntu/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 18:49:02.543 NotebookApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 18:49:03.891 NotebookApp] JupyterLab extension loaded from /opt/conda/lib/python3.6/site-packages/jupyterlab
+[I 18:49:03.892 NotebookApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
+[I 18:49:04.125 NotebookApp] Serving notebooks from local directory: /
+[I 18:49:04.125 NotebookApp] The Jupyter Notebook is running at:
+[I 18:49:04.125 NotebookApp] http://run-6287e273cfe6920ea05e71f4-frggf:8888/jddavis1000/spark_nlp_fm/notebookSession/6287e273cfe6920ea05e71f4/
+[I 18:49:04.125 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 18:49:04.217 NotebookApp] 302 GET /jddavis1000/spark_nlp_fm/notebookSession/6287e273cfe6920ea05e71f4/ (10.0.43.120) 1.01ms
+[I 18:49:04.519 NotebookApp] 302 GET /jddavis1000/spark_nlp_fm/notebookSession/6287e273cfe6920ea05e71f4/ (10.0.43.120) 0.49ms
+[I 18:49:04.874 NotebookApp] 302 GET /jddavis1000/spark_nlp_fm/notebookSession/6287e273cfe6920ea05e71f4/ (10.0.43.120) 0.48ms
+[I 18:49:10.857 NotebookApp] Writing notebook-signing key to /home/ubuntu/.local/share/jupyter/notebook_secret
+[W 18:49:10.907 NotebookApp] Notebook mnt/Exploratory Analysis.ipynb is not trusted
+[I 18:49:16.931 NotebookApp] Kernel started: ed51af13-e260-497d-8523-c18f508e988c
+[W 18:49:19.121 NotebookApp] Notebook mnt/SparkNLP Classes.ipynb is not trusted
+[I 18:49:19.271 NotebookApp] Kernel started: 030128e4-7cc2-4bc6-be89-d6283d01988d
+[I 18:49:24.102 NotebookApp] Starting buffering for 030128e4-7cc2-4bc6-be89-d6283d01988d:51a4d43e9269481688e9e5881f1357ae
+[I 18:49:32.907 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
